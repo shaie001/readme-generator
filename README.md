@@ -1,1 +1,1 @@
-# readme-generator
+This application generates a ReadMe based off of user input
